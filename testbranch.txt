@@ -1,2 +1,3 @@
 git test branch 1 
 git merge test in branch test2
+git testing branch 3 (pratice for merge)
