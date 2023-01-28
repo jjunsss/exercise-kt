@@ -1,1 +1,2 @@
 git test branch 1 
+git merge test in branch test2
